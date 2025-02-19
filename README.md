@@ -78,3 +78,4 @@ João Victor Leite Dos Santos - joao.vlsantos2@ufape.edu.br
 ## 🔗 Links
 
 https://www.figma.com/design/8oRTcBlfWO4bx8DzZPPjlK/Untitled?node-id=0-1&m=dev&t=PwDzcGj5Pku47DTx-1
+https://github.com/users/JoaoVLSantos/projects/1
